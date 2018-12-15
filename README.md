@@ -1,2 +1,6 @@
-# CRUD
-Implementação de um CRUD para Cursos de Certificação em Tecnologia da Informação
+# Implementação de um CRUD para Cursos de Certificação em Tecnologia da Informação
+Este é um projeto escolar para a disciplina de Programação Orientada a Objetos ministrada pelas Professoras Andreia Machion e Patricia Alves Pereira, do curso de Tecnologia em Análise e Desenvolvimento de Sistemas, do período Noturno, da Faculdade de Tecnologia – FATEC do Ipiranga "Pastor Enéas Tognini", do Centro Paula Souza, do Governo do Estado de São Paulo.
+
+Nós, os autores, Marcos Vinícius Lourenço Teixeira e André Filipe de Lima dedicamos todo e qualquer interesse por direitos autorais neste projeto ao domínio público. Fazemos essa dedicação para o benefício do público em geral e em detrimento de nossos herdeiros e sucessores. Pretendemos que essa dedicação seja um ato declarado de renúncia, em perpetuidade, a todos os direitos presentes e futuros a este projeto sob a lei de direitos autorais.
+
+O projeto é fornecido no estado em que se encontra, sem nenhum tipo de garantia, expressa ou implícita, incluindo, mas não se limitando às garantias de comercialização, adequação a um fim específico e não violação. Em nenhuma circunstância, os autores serão responsáveis por qualquer reinvindicação, dano ou outras responsabilidades, seja em ação de contrato, delito ou de outra forma, decorrentes de, ou em relação ao software ou à sua utilização ou a outra aplicação do software.
