@@ -1,0 +1,21 @@
+CREATE DATABASE certificacao;
+USE certificacao;
+
+
+CREATE TABLE curso
+(
+	id				SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+	nome			VARCHAR(60) NOT NULL,
+	cargaHoraria	SMALLINT UNSIGNED NOT NULL,
+	qtdeAulas		TINYINT UNSIGNED NOT NULL,
+	notaCorte		TINYINT UNSIGNED NOT NULL,
+	sequencia		TINYINT UNSIGNED NOT NULL,
+	software		VARCHAR(15) NOT NULL,
+	situacao		VARCHAR(10) NOT NULL,
+	PRIMARY KEY (id),
+    UNIQUE (nome)
+)
+
+ENGINE = InnoDB;
+
+select * from curso;
